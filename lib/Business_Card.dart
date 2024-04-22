@@ -54,7 +54,7 @@ class _BusinessCardState extends State<BusinessCard> {
            ),
               Column(
                 children: [
-                  customText(txt: '01117840406', icona: Icons.phone),
+                  customText(txt: '+2 0111*******', icona: Icons.phone),
                   
                   Padding(
                     padding: const EdgeInsets.all(10.0),
@@ -78,7 +78,7 @@ class _BusinessCardState extends State<BusinessCard> {
                             Padding(
                               padding: EdgeInsets.only(left:22.0),
                               child: Text(
-                                "moustafabdelrm@gmail.com",
+                                "m*************@gmail.com",
                                 style: TextStyle(
                                   fontSize: 20
                                 ),
