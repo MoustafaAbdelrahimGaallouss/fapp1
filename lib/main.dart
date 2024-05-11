@@ -1,9 +1,8 @@
 import 'package:flutter/material.dart';
-// import 'Test_API.dart';
+import 'Test_API.dart';
 // import 'Test_Provider.dart';
 // import 'Palestin.dart';
-import 'Basketball.dart';
-// import 'Language_Learning_app.dart';
+// import 'Basketball.dart';
 // import 'Business_Card.dart';
 void main() {
   runApp(const MyApp());
@@ -19,10 +18,10 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
     //  home:testone()
     // home:MyApp()
-       home:Basketball()
+      //  home:Basketball()
       // home:BusinessCard()
-       //home:TestAPI(),
-      // home:Language_LearningApp() ,
+       home:TestAPI(),
+  
     );}}
 
     // You are applying Flutter's app_plugin_loader Gradle plugin imperatively using the apply script

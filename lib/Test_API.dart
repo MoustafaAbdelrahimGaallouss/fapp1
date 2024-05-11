@@ -16,7 +16,7 @@ class _TestAPIState extends State<TestAPI> {
     return Scaffold(
       appBar: AppBar(
         backgroundColor: Colors.blue,
-        title: Text("APi/http"),
+        title: Text("APi / http"),
       ),
       body:ListView(
         children: [ Container(

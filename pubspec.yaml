@@ -38,6 +38,7 @@ dependencies:
   provider: ^6.1.2
   http: ^1.2.1
   tap_to_expand: ^0.7.2
+  device_preview: ^1.1.0
 
 dev_dependencies:
   flutter_test:
